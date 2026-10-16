@@ -1,0 +1,16 @@
+{
+  "passed": true,
+  "slides": 1,
+  "text_entries_verified_in_rendered_pdf": 32,
+  "png_pixels": [
+    3840,
+    2160
+  ],
+  "editable_text_boxes": 156,
+  "independent_illustration_images": 5,
+  "workflow": "manual reconstruction from conversation reference; formal editppt prepare pipeline not executed because original local source was not supplied",
+  "limitations": [
+    "Illustrations reconstructed from reference as bitmap assets; not individually editable vector paths",
+    "4K denotes exported canvas resolution; not a claim that bitmap artwork is natively 4K"
+  ]
+}
