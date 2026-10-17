@@ -1,0 +1,13 @@
+{
+  "passed": true,
+  "slide_count": 1,
+  "rendered_text_entries_checked": 46,
+  "main_workflow_items": 25,
+  "png_dimensions": [
+    3840,
+    2160
+  ],
+  "illustration_assets": 6,
+  "validation_scope": "Manual transcription checks, rendered PDF text, PPTX package integrity and shape bounds. Not a formal editppt record/finalize validation.",
+  "illustration_source": "reference-based imagegen reconstruction, independent raster artwork, not pixel-identical originals"
+}
