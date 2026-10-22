@@ -1,0 +1,114 @@
+[
+  {
+    "stage": "第一阶段：前期准备与实验方案完善",
+    "task": "文献查阅与方案完善",
+    "start": "2026.10",
+    "end": "2026.12",
+    "inclusive_month_count": 3
+  },
+  {
+    "stage": "第一阶段：前期准备与实验方案完善",
+    "task": "开题报告修改与完善",
+    "start": "2026.10",
+    "end": "2026.12",
+    "inclusive_month_count": 3
+  },
+  {
+    "stage": "第一阶段：前期准备与实验方案完善",
+    "task": "伦理审批与实验条件落实",
+    "start": "2026.11",
+    "end": "2026.12",
+    "inclusive_month_count": 2
+  },
+  {
+    "stage": "第一阶段：前期准备与实验方案完善",
+    "task": "逍遥散制备与剂量确定",
+    "start": "2026.11",
+    "end": "2026.12",
+    "inclusive_month_count": 2
+  },
+  {
+    "stage": "第二阶段：动物模型建立与药物干预",
+    "task": "适应性饲养与基线行为学评价",
+    "start": "2027.01",
+    "end": "2027.01",
+    "inclusive_month_count": 1
+  },
+  {
+    "stage": "第二阶段：动物模型建立与药物干预",
+    "task": "CUMS造模4周与模型评价",
+    "start": "2027.01",
+    "end": "2027.02",
+    "inclusive_month_count": 2
+  },
+  {
+    "stage": "第二阶段：动物模型建立与药物干预",
+    "task": "分组与逍遥散灌胃干预4周",
+    "start": "2027.03",
+    "end": "2027.04",
+    "inclusive_month_count": 2
+  },
+  {
+    "stage": "第二阶段：动物模型建立与药物干预",
+    "task": "行为学复测与脑组织取材",
+    "start": "2027.04",
+    "end": "2027.04",
+    "inclusive_month_count": 1
+  },
+  {
+    "stage": "第三阶段：实验指标检测与数据分析",
+    "task": "Western blot检测（SIRT1、PGC-1α）",
+    "start": "2027.05",
+    "end": "2027.06",
+    "inclusive_month_count": 2
+  },
+  {
+    "stage": "第三阶段：实验指标检测与数据分析",
+    "task": "生化指标检测（ATP、MDA、SOD）",
+    "start": "2027.05",
+    "end": "2027.06",
+    "inclusive_month_count": 2
+  },
+  {
+    "stage": "第三阶段：实验指标检测与数据分析",
+    "task": "数据整理与质量控制",
+    "start": "2027.07",
+    "end": "2027.07",
+    "inclusive_month_count": 1
+  },
+  {
+    "stage": "第三阶段：实验指标检测与数据分析",
+    "task": "统计分析与图表绘制",
+    "start": "2027.07",
+    "end": "2027.08",
+    "inclusive_month_count": 2
+  },
+  {
+    "stage": "第三阶段：实验指标检测与数据分析",
+    "task": "结果初步分析",
+    "start": "2027.08",
+    "end": "2027.08",
+    "inclusive_month_count": 1
+  },
+  {
+    "stage": "第四阶段：研究结果总结与论文撰写",
+    "task": "结果整理与讨论",
+    "start": "2027.09",
+    "end": "2027.10",
+    "inclusive_month_count": 2
+  },
+  {
+    "stage": "第四阶段：研究结果总结与论文撰写",
+    "task": "学位论文初稿撰写",
+    "start": "2027.10",
+    "end": "2027.11",
+    "inclusive_month_count": 2
+  },
+  {
+    "stage": "第四阶段：研究结果总结与论文撰写",
+    "task": "论文修改完善",
+    "start": "2027.11",
+    "end": "2027.12",
+    "inclusive_month_count": 2
+  }
+]

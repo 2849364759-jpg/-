@@ -1,0 +1,17 @@
+{
+  "passed": true,
+  "slides": 1,
+  "all_native_vector": true,
+  "ppt_picture_objects": 0,
+  "pdf_raster_images": 0,
+  "editable_objects": 183,
+  "bars": 16,
+  "month_columns": 15,
+  "rendered_text_entries_checked": 43,
+  "png_dimensions": [
+    3840,
+    2160
+  ],
+  "bar_geometry_checked_against_schedule": true,
+  "full_editppt_cli_workflow": false
+}
