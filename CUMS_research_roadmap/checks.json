@@ -1,0 +1,13 @@
+{
+  "passed": true,
+  "scope": "manual source transcription, rendered PDF text, PPTX package integrity, object bounds, raster export dimensions",
+  "text_entries": 47,
+  "slides": 1,
+  "png_dimensions": [
+    3840,
+    2160
+  ],
+  "illustrations": "reference-based reconstruction in separate raster assets; not original vector artwork",
+  "formal_editppt_pipeline_executed": false,
+  "note": "Experimental groups, durations and doses transcribed from source, not independently validated. Blots/charts are workflow illustrations, not actual research results."
+}
